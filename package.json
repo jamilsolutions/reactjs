@@ -1,7 +1,7 @@
 {
   "name": "code",
   "version": "1.0.0",
-  "description": "React JS Course",
+  "description": "React JS Training",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jamilsolutions/reactjs.git"
+    "url": "git+ssh://git@github.com/jamilsolutions/reactjs-training.git"
   },
   "bugs": {
-    "url": "https://github.com/jamilsolutions/reactjs/issues"
+    "url": "https://github.com/jamilsolutions/reactjs-training/issues"
   },
-  "homepage": "https://github.com/jamilsolutions/reactjs#readme"
+  "homepage": "https://github.com/jamilsolutions/reactjs-training#readme"
 }
