@@ -1,2 +1,2 @@
-# ReactJS Training
+# reactjs
 React JS training codes

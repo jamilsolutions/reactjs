@@ -1,0 +1,20 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "React JS Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohamed Jammal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jamilsolutions/reactjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamilsolutions/reactjs/issues"
+  },
+  "homepage": "https://github.com/jamilsolutions/reactjs#readme"
+}
