@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script src="https://fb.me/react-0.14.3.js"></script>
+        <script src="https://fb.me/react-dom-0.14.3.js"></script>
+        <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script> 
+        <title>React JSX Training</title>
+    </head>
+    <body>
+        <div id="mycontainer"></div>
+        <script type="text/babel">
+           var ReactComponent = React.createClass({
+               render: function () {
+                   return (<div>
+                            <h1>Welcome to React JSX</h1>
+                          </div>);
+               }
+           });
+           ReactDOM.render(<ReactComponent/>,
+           document.getElementById('mycontainer'));
+        </script>
+    </body>
+</html>
